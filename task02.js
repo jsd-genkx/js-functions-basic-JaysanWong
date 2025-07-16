@@ -28,6 +28,9 @@ Task 02: Check Even or Odd
 //     return number % 2 === 0 ? "Even" : "Odd";  // ternary operation
 // };
 // Solution 3
+
+// test
+
 const checkEvenOrOdd = (number) => number % 2 === 0 ? "Even" : "Odd";  // ternary operation;
 
 // Example Test Cases
